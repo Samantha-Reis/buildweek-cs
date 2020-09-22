@@ -1,3 +1,12 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(to top right, slategray, gray, blue);
+  height: 100%;
+}
+
 .App {
   text-align: center;
 }
